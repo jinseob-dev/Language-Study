@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux-Study/13. Shell Scripting Basics.md",
+                "file": "Linux-Study/14. Environment Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. Shell Scripting Basics"
+              "title": "14. Environment Variables"
             }
           }
         ]
@@ -198,8 +198,9 @@
   },
   "active": "0600b536ea430fa0",
   "lastOpenFiles": [
-    "Linux-Study/12. Text Editors in Linux.md",
     "Linux-Study/13. Shell Scripting Basics.md",
+    "Linux-Study/14. Environment Variables.md",
+    "Linux-Study/12. Text Editors in Linux.md",
     "Linux-Study/11. Networking Basics.md",
     "Linux-Study/10. Process Management.md",
     "Linux-Study/9. Package Management.md",
