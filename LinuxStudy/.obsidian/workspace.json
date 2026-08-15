@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux-Study/14. Environment Variables.md",
+                "file": "Python-Study/1. Programming as a way of thinking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14. Environment Variables"
+              "title": "1. Programming as a way of thinking"
             }
           }
         ]
@@ -196,18 +196,20 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "0600b536ea430fa0",
+  "active": "b49efb16068a30db",
   "lastOpenFiles": [
-    "Linux-Study/13. Shell Scripting Basics.md",
     "Linux-Study/14. Environment Variables.md",
+    "Python-Study/1. Programming as a way of thinking.md",
+    "Python-Study",
     "Linux-Study/12. Text Editors in Linux.md",
+    "Linux-Study/13. Shell Scripting Basics.md",
+    "Linux-Study/8. File Permissions and Ownership.md",
+    "Linux-Study/9. Package Management.md",
+    "Linux-Study/5. Managing Files and Directories.md",
     "Linux-Study/11. Networking Basics.md",
     "Linux-Study/10. Process Management.md",
-    "Linux-Study/9. Package Management.md",
-    "Linux-Study/8. File Permissions and Ownership.md",
     "Linux-Study/7. User and Group Management.md",
     "Linux-Study/6. Text Manipulation.md",
-    "Linux-Study/5. Managing Files and Directories.md",
     "Linux-Study/4. Basic Linux Commands.md",
     "Linux-Study/3. Navigating the File System.md",
     "Linux-Study/2. Getting Started With Linux.md",
