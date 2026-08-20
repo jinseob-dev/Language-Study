@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux-Study/14. Environment Variables.md",
+                "file": "Python-Study/1. Programming as a way of thinking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14. Environment Variables"
+              "title": "1. Programming as a way of thinking"
             }
           }
         ]
@@ -198,10 +198,10 @@
   },
   "active": "0600b536ea430fa0",
   "lastOpenFiles": [
+    "Linux-Study/14. Environment Variables.md",
     "Linux-Study/2. Getting Started With Linux.md",
     "Python-Study/1. Programming as a way of thinking.md",
     "무제.md",
-    "Linux-Study/14. Environment Variables.md",
     "Python-Study",
     "Linux-Study/12. Text Editors in Linux.md",
     "Linux-Study/13. Shell Scripting Basics.md",
