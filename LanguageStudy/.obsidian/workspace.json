@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2a433397dca0c1df",
@@ -182,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 227.51953125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +197,7 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "b49efb16068a30db",
+  "active": "0600b536ea430fa0",
   "lastOpenFiles": [
     "Python-Study/1. Programming as a way of thinking.md",
     "Python-Study/2. Variables and Statements.md",
