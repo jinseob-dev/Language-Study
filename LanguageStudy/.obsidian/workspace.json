@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b6af1da5db1ee96d",
+        "id": "0022a3fa3d94bcda",
         "type": "tabs",
         "children": [
           {
-            "id": "0600b536ea430fa0",
+            "id": "af5ef6a949453e8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -197,10 +197,10 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "0600b536ea430fa0",
+  "active": "af5ef6a949453e8f",
   "lastOpenFiles": [
-    "Python-Study/1. Programming as a way of thinking.md",
     "Python-Study/2. Variables and Statements.md",
+    "Python-Study/1. Programming as a way of thinking.md",
     "Linux-Study/14. Environment Variables.md",
     "Linux-Study/2. Getting Started With Linux.md",
     "무제.md",
