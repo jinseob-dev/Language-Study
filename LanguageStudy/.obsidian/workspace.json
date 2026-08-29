@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.51953125
+    "width": 297.51953125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,8 +198,8 @@
   },
   "active": "af5ef6a949453e8f",
   "lastOpenFiles": [
-    "Python-Study/2. Variables and Statements.md",
     "Python-Study/1. Programming as a way of thinking.md",
+    "Python-Study/2. Variables and Statements.md",
     "Linux-Study/14. Environment Variables.md",
     "Linux-Study/2. Getting Started With Linux.md",
     "무제.md",
