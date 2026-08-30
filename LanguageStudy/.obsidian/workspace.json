@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python-Study/2. Variables and Statements.md",
+                "file": "Python-Study/3. Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Variables and Statements"
+              "title": "3. Functions"
             }
           }
         ]
@@ -196,10 +196,11 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "af5ef6a949453e8f",
+  "active": "b49efb16068a30db",
   "lastOpenFiles": [
-    "Python-Study/1. Programming as a way of thinking.md",
     "Python-Study/2. Variables and Statements.md",
+    "Python-Study/3. Functions.md",
+    "Python-Study/1. Programming as a way of thinking.md",
     "Linux-Study/14. Environment Variables.md",
     "Linux-Study/2. Getting Started With Linux.md",
     "무제.md",
