@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.51953125
+    "width": 297.51953125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +197,11 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "b49efb16068a30db",
+  "active": "af5ef6a949453e8f",
   "lastOpenFiles": [
-    "Python-Study/2. Variables and Statements.md",
-    "Python-Study/3. Functions.md",
     "Python-Study/1. Programming as a way of thinking.md",
+    "Python-Study/3. Functions.md",
+    "Python-Study/2. Variables and Statements.md",
     "Linux-Study/14. Environment Variables.md",
     "Linux-Study/2. Getting Started With Linux.md",
     "무제.md",
