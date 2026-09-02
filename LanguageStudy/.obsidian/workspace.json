@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.51953125,
-    "collapsed": true
+    "width": 297.51953125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +196,7 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "af5ef6a949453e8f",
+  "active": "8fd9bb41b11218a1",
   "lastOpenFiles": [
     "Python-Study/1. Programming as a way of thinking.md",
     "Python-Study/3. Functions.md",
